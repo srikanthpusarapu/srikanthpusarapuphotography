@@ -179,7 +179,7 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../posts/post31.jpg');
+    background: url('../posts/post37.jpg'); /* Home page Background */
     background-size: cover;
     height: 110vh;
     display: flex;
